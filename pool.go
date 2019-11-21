@@ -3,7 +3,7 @@ package pool
 import (
 	"runtime/debug"
 
-	"md-dev/fred/api.communityV2/util/log"
+	"github.com/lufred/golog"
 )
 
 func init() {
